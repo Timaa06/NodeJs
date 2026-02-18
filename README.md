@@ -310,10 +310,10 @@ npm start
 
 ## 👨‍💻 Auteur
 
-**Fatoumata Sidibé**
+**Fatoumata Dite Tima Sidibé**
 
 - GitHub: [@Timaa06](https://github.com/Timaa06)
-- Email: fatoumata@example.com
+- Email: fatoumataditetimas@gmail.com
 
 ---
 
